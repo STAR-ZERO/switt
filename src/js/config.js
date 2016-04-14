@@ -1,4 +1,6 @@
 module.exports = {
   // TODO
-  configurationURL: "http://xxxxxxxxxx"
+  // configuration page code https://github.com/STAR-ZERO/switt-configuration
+  // deploy and set domain.
+  configurationURL: "http://xxxxxxxxxx/login"
 };
